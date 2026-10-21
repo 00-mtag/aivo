@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+*.log
+.DS_Store
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+# secrets: never commit these
+.env
+.env.local
